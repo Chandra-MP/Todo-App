@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Todo Tracker App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "npm start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandra-MP/Todo-App.git"
+  },
+  "author": "Chandra M. Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chandra-MP/Todo-App/issues"
+  },
+  "homepage": "https://github.com/Chandra-MP/Todo-App#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7"
+  }
+}
